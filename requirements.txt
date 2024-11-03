@@ -1,0 +1,4 @@
+torch
+accelerate
+gradio
+# transformers[sentencepiece] # Installa tutte le dipendenze necessarie per l'uso dei transformers
